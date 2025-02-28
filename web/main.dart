@@ -1,5 +1,5 @@
 import 'dart:convert';
-import 'dart:io'; // Untuk membaca input dari pengguna
+import 'dart:io';
 import 'package:http/http.dart' as http;
 
 class Product {
